@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de Site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000.00,
-            "createdAt": "2023-09-19T18:45:24.959Z"
-        },
-        {
-            "id": 2,
-            "description": "Aluguel da Casa",
-            "type": "outcome",
-            "category": "Casa",
-            "price": 1000.00,
-            "createdAt": "2023-09-19T18:45:24.959Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-09-19T18:45:24.959Z"
+    },
+    {
+      "id": 2,
+      "description": "Aluguel da Casa",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1000,
+      "createdAt": "2023-09-19T18:45:24.959Z"
+    },
+    {
+      "description": "Desenvolvimento",
+      "category": "Venda",
+      "price": 1222,
+      "type": "income",
+      "createdAt": "2023-09-21T13:02:06.414Z",
+      "id": 3
+    },
+    {
+      "description": "Hamburgão",
+      "category": "Alimentação",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2023-09-21T13:21:16.024Z",
+      "id": 4
+    }
+  ]
 }
