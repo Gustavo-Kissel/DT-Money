@@ -11,7 +11,7 @@ export function Header() {
                 
                 <Dialog.Root>
                     <Dialog.Trigger asChild>
-                        <NewTransactionButton>Novo Transação</NewTransactionButton>
+                        <NewTransactionButton>Nova Transação</NewTransactionButton>
                     </Dialog.Trigger>
 
                     <NewTransactionModal />
